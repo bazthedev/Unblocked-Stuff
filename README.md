@@ -8,3 +8,5 @@ Current Unblocked Software:
 - Hide.me VPN: Hide.me-Setup-3.9.2.exe
 - Psiphon3 VPN - Psiphon3.exe
 - PPSSPP (PSP Emulator): ppsspp_win.zip
+- SysInternalsBluescreen.scr: Fake Bluescreen screensaver
+- Process Hacker (Task Manager): Process Hacker.zip
