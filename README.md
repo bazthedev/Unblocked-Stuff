@@ -26,3 +26,4 @@ Current Techniques to bypass restrictions:
 - Command Prompt in python: https://github.com/bazthedev/python-terminal
 - Reset the Windows Store: type `wsreset` into the search bar and press enter
 - Run a single command in Command Prompt: cmd /k tree (replace tree with whatever command you choose)
+- Give admin (kinda): type `taskschd.msc` into the search bar
