@@ -10,3 +10,12 @@ Current Unblocked Software:
 - PPSSPP (PSP Emulator): ppsspp_win.zip
 - SysInternalsBluescreen.scr: Fake Bluescreen screensaver
 - Process Hacker (Task Manager): Process Hacker.zip
+
+Current Unblocked Links:
+
+- Retroarch (Emulator): https://web.libretro.com
+- App.Any.Run (Malware Analysis): https://app.any.run/
+
+Current Techniques to bypass restrictions:
+
+- Access Powershell: https://github.com/bazthedev/python-powershell
