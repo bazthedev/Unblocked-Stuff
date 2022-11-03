@@ -13,6 +13,7 @@ Please note that ROMs for emulators will not be provided, as I'm not getting don
 - SysInternalsBluescreen.scr: Fake Bluescreen screensaver
 - Process Hacker (Task Manager): Process Hacker.zip
 - Bluescreen in python: bluescreen.pyw
+- Windows95 in electron: https://github.com/felixrieseberg/windows95
 
 ## Current Unblocked Links:
 
@@ -22,6 +23,7 @@ Please note that ROMs for emulators will not be provided, as I'm not getting don
 - Endermanch's Malware Generator: https://mgen.fast-dl.xyz/
 - Malwiki: https://malwiki.org/
 - Repl.it (kinda like more advanced scratch): https://replit.com/
+- Halfix Demo (Online Virtual Machines): https://nepx.github.io/halfix-demo/
 
 ## Current Techniques to bypass restrictions:
 
