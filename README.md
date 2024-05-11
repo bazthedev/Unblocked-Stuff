@@ -23,4 +23,4 @@ Please note that ROMs for emulators will not be provided, as I'm not getting don
 - Command Prompt in python: https://github.com/bazthedev/python-terminal
 - Access the Windows Store: type `wsreset` into the search bar and press enter
 - Run a single command in Command Prompt: `cmd /k tree` (replace tree with whatever command you choose)
-- Install Python Modules: Open Thonny and press tools, then manage installed packages. You can type the name of any python package (e.g. pygame) and it will install!
+- Install Python Modules if pip throws an error when you run it: Open Thonny and press tools, then manage installed packages. You can type the name of any python package (e.g. pygame) and it will install!
