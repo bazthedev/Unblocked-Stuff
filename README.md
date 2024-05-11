@@ -6,7 +6,7 @@ Please note that ROMs for emulators will not be provided, as I'm not getting don
 ## Current Unblocked Software:
 - Bluescreen in python: bluescreen.pyw
 - Windows95 in electron: https://github.com/felixrieseberg/windows95
-- Python Emulators: https://github.com/bazthedev/PythonEmulatorsFrontend
+- Python Emulators: https://github.com/bazthedev/PythonEmulatorsLauncher
 
 ## Current Unblocked Links:
 
