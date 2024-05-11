@@ -27,8 +27,10 @@ Please note that ROMs for emulators will not be provided, as I'm not getting don
 
 ## Current Techniques to bypass restrictions:
 
-- Access Powershell: https://github.com/bazthedev/powershell-python
+- [DEPRECATED] Access Powershell: https://github.com/bazthedev/powershell-python
+- Access Powershell: type `powershell_ise` in the windows search bar and press enter
 - Command Prompt in python: https://github.com/bazthedev/python-terminal
-- Reset the Windows Store: type `wsreset` into the search bar and press enter
-- Run a single command in Command Prompt: cmd /k tree (replace tree with whatever command you choose)
+- Access the Windows Store: type `wsreset` into the search bar and press enter
+- Run a single command in Command Prompt: `cmd /k tree` (replace tree with whatever command you choose)
 - Give admin (kinda): type `taskschd.msc` into the search bar
+- Install Python Modules: Open Thonny and press tools, then manage installed packages. You can type the name of any python package (e.g. pygame) and it will install!
