@@ -7,6 +7,7 @@ Please note that ROMs for emulators will not be provided, as I'm not getting don
 - Bluescreen in python: bluescreen.pyw
 - Windows95 in electron: https://github.com/felixrieseberg/windows95
 - Python Emulators: https://github.com/bazthedev/PythonEmulatorsLauncher
+- You are an idiot in Python: https://github.com/bazthedev/YouAreAnIdiotPy
 
 ## Current Unblocked Links:
 
