@@ -1,7 +1,4 @@
 # Unblocked Software, sites and bypassing
-### This repo is just to load some programs onto computers when dl links are blocked
-
-Please note that ROMs for emulators will not be provided, as I'm not getting done for distributing copyrighted material or whatever it is
 
 ## Current Unblocked Software:
 - Bluescreen in python: https://github.com/bazthedev/Bluescreen
