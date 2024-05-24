@@ -11,8 +11,7 @@
 - Retroarch (Emulator): https://web.libretro.com
 - Vimms
 - App.Any.Run (Malware Analysis): https://app.any.run/
-- Free Minecraft: https://eaglercraft.com
-- Malwiki: https://malwiki.org/
+- Free Minecraft: https://eaglercraft.com (file is SinglePlayerOffline.HTML or something like International Version)
 - Halfix Demo (Online Virtual Machines): https://nepx.github.io/halfix-demo/
 
 ## Current Techniques to bypass restrictions:
