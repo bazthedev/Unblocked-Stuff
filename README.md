@@ -1,5 +1,7 @@
 # Unblocked Software, sites and bypassing
 
+# [NOTICE] THIS REPOSITORY WILL BE ARCHIVED AS OF 20/6/24
+
 ## Current Unblocked Software:
 - Bluescreen in python: https://github.com/bazthedev/Bluescreen
 - Windows95 in electron: https://github.com/felixrieseberg/windows95
