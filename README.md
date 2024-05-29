@@ -7,6 +7,8 @@
 - Windows95 in electron: https://github.com/felixrieseberg/windows95
 - Python Emulators: https://github.com/bazthedev/PythonEmulatorsLauncher
 - You are an idiot in Python: https://github.com/bazthedev/YouAreAnIdiotPy
+- Group Policy Editor can be viewed by typing gpedit.msc
+- Taskscheduler: taskscdh.msc
 
 ## Current Unblocked Links:
 
@@ -24,3 +26,5 @@
 - Access the Windows Store: type `wsreset` into the search bar and press enter
 - Run a single command in Command Prompt: `cmd /k tree` (replace tree with whatever command you choose)
 - Install Python Modules if pip throws an error when you run it: Open Thonny and press tools, then manage installed packages. You can type the name of any python package (e.g. pygame) and it will install!
+- Adding new devices (controllers, keyboards etc.): Literally just plug it in and windows lets you use it
+- Webbrowsers allow you to view the contents of usually inaccessible locations on the local computer (file://C:\)
