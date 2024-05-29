@@ -15,6 +15,7 @@
 - App.Any.Run (Malware Analysis): https://app.any.run/
 - Free Minecraft: https://eaglercraft.com (file is SinglePlayerOffline.HTML or something like International Version)
 - Halfix Demo (Online Virtual Machines): https://nepx.github.io/halfix-demo/
+- Chrome web store (install browser extensions): https://chromewebstore.google.com/
 
 ## Current Techniques to bypass restrictions:
 
