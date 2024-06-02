@@ -8,7 +8,7 @@
 - Python Emulators: https://github.com/bazthedev/PythonEmulatorsLauncher
 - You are an idiot in Python: https://github.com/bazthedev/YouAreAnIdiotPy
 - Group Policy Editor can be viewed by typing gpedit.msc
-- Taskscheduler: taskscdh.msc
+- Taskscheduler: taskschd.msc
 
 ## Current Unblocked Links:
 
