@@ -29,3 +29,4 @@
 - Install Python Modules if pip throws an error when you run it: Open Thonny and press tools, then manage installed packages. You can type the name of any python package (e.g. pygame) and it will install!
 - Adding new devices (controllers, keyboards etc.): Literally just plug it in and windows lets you use it
 - Webbrowsers allow you to view the contents of usually inaccessible locations on the local computer (file://C:\)
+- Uninstall downloaded apps from Windows Store: open powershell, run `Get-AppxPackage`, find the name of the app and copy the string. Then do `Get-AppxPackage {paste} | Remove-AppxPackage`
