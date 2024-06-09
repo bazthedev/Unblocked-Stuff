@@ -4,7 +4,6 @@
 
 ## Current Unblocked Software:
 - Bluescreen in python: https://github.com/bazthedev/Bluescreen
-- Windows95 in electron: https://github.com/felixrieseberg/windows95
 - Python Emulators: https://github.com/bazthedev/PythonEmulatorsLauncher
 - You are an idiot in Python: https://github.com/bazthedev/YouAreAnIdiotPy
 - Group Policy Editor can be viewed by typing gpedit.msc
