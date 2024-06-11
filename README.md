@@ -22,7 +22,7 @@
 ## Current Techniques to bypass restrictions:
 
 - Access Powershell: type `powershell_ise` in the windows search bar and press enter
-- Command Prompt in python: https://github.com/bazthedev/python-terminal
+- Command Prompt in python: `py -c "import os;while True:cmd = input(os.getcwd() + '>');os.system(cmd);"`
 - Access the Windows Store: type `wsreset` into the search bar and press enter
 - Run a single command in Command Prompt: `cmd /k tree` (replace tree with whatever command you choose)
 - Install Python Modules if pip throws an error when you run it: Open Thonny and press tools, then manage installed packages. You can type the name of any python package (e.g. pygame) and it will install!
