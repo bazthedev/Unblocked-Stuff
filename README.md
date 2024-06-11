@@ -1,4 +1,4 @@
-# (Unblocked Software, sites and bypassing)[https://bazthedev.github.io/Unblocked-Stuff]
+# [Unblocked Software, sites and bypassing](https://bazthedev.github.io/Unblocked-Stuff)
 
 # [NOTICE] THIS REPOSITORY WILL BE ARCHIVED AS OF 20/6/24
 
