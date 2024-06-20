@@ -1,6 +1,6 @@
 # [Unblocked Software, sites and bypassing](https://bazthedev.github.io/Unblocked-Stuff)
 
-# [NOTICE] THIS REPOSITORY WILL BE ARCHIVED AS OF 20/6/24
+# [NOTICE] THIS REPOSITORY HAS BEEN AS OF 20/6/24 AND WILL NO LONGER BE UPDATED
 
 ## Current Unblocked Software:
 - Bluescreen in python: [https://github.com/bazthedev/Bluescreen](https://github.com/bazthedev/Bluescreen)
